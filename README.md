@@ -64,7 +64,7 @@ EaseUS Todo Backup Home Windows 2025 is a top-rated backup software designed exc
 
 ### 📸 Visual Preview
 
-![EaseUS Todo Backup Dashboard](https://www.easeus.com/images/en/screenshot/todo-backup/home-online-help/12_EaseUS_Todo_Backup_File_Backup.png)  
+![EaseUS Todo Backup Dashboard](https://i.ebayimg.com/images/g/-uQAAOSw8IZlzAmq/s-l1200.png)  
 *Main backup dashboard on Windows for creating and managing backups.*
 
 ![System Backup Interface](https://www.easeus.com/images/en/screenshot/todo-backup/business/backup-system.png)  
